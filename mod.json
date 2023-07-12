@@ -3,14 +3,18 @@
 	"displayName": "Data Driver",
 	"version": "1.0.0",
 	"synchronyVersion": "3.7.1",
-	"description": "No description given.",
+	"description": "A library mod for Crypt of the Necrodancer: Synchrony which creates items from JSON files.",
 	"author": "MacaylaMarvelous81",
 	"dependencies": {},
-	"api": {
-		"scriptPath": "scripts"
-	},
+	"api": {"scriptPath":"scripts"},
 	"icon": "DataDriverIcon.png",
 	"banner": "DataDriverBanner.png",
-	"tags": [],
-	"name": "DataDriver"
+	"tags": ["Items","Library","Quality of Life"],
+	"name": "DataDriver_io_3162046",
+	"changelog": "",
+	"homepageURL": "https://mod.io/g/crypt/m/datadriver",
+	"modioID": "3162046",
+	"modioUserID": 24922981,
+	"pendingVersion": "1.0.0",
+	"visibility": 0
 }

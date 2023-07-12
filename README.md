@@ -18,13 +18,10 @@ Data Driver as a dependency in your mod.json:
 {
 	// ...
 	"dependencies": {
-		"DataDriver": "1.0.0"
+		"DataDriver_io_3162046": "1.0.0"
 	}
 }
 ```
-**NOTE**: The name of the mod in the dependencies section will be different
-when it is installed by mod.io. I will update the example to use the applicable
-mod name once it is uploaded.
 
 Then you can create your items with JSON in the data/items directory:
 ```json
