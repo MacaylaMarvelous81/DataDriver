@@ -9,7 +9,7 @@ JSON files.
 - [ ] Custom Characters
 
 ### Example - Mod Item
-Example Mod: To be uploaded... sorry!
+[Example Mod Repository](https://github.com/MacaylaMarvelous81/DataDriverTestMod)
 
 Items are loaded recursively from your mod's data/items/*.json. First, specify
 Data Driver as a dependency in your mod.json:
