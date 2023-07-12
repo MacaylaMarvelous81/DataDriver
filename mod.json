@@ -1,0 +1,16 @@
+{
+	"namespace": "DataDriver",
+	"displayName": "Data Driver",
+	"version": "1.0.0",
+	"synchronyVersion": "3.7.1",
+	"description": "No description given.",
+	"author": "MacaylaMarvelous81",
+	"dependencies": {},
+	"api": {
+		"scriptPath": "scripts"
+	},
+	"icon": "DataDriverIcon.png",
+	"banner": "DataDriverBanner.png",
+	"tags": [],
+	"name": "DataDriver"
+}
